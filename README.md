@@ -1,3 +1,5 @@
+Temporary fork to add support for simplified </script> encoding..
+
 #![Logo](Doc/icons/logo.jpg) Json.NET#
 
 - [Homepage](http://www.newtonsoft.com/json)
