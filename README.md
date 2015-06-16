@@ -1,4 +1,4 @@
-Temporary fork to add support for simplified </script> encoding..
+Temporary fork to add support for simplified &lt;/script> encoding..
 
 #![Logo](Doc/icons/logo.jpg) Json.NET#
 
